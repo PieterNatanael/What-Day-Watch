@@ -11,3 +11,47 @@ Download now and always know your days!
 https://apps.apple.com/id/app/what-day-watch/id6502623632
 
 developer : Pieter Yoshua Natanael
+
+Fragst du dich, welcher Tag es ist? Mit What Day? Watch kannst du den Wochentag für jedes Datum auf deinem Apple Watch-Gerät herausfinden.
+
+Funktionen:
+
+Überprüfe den Wochentag für jedes Datum von 1800 bis 2300.
+Einfach und spaßig zu bedienen.
+Ideal für die Planung von Geburtstagen, Veranstaltungen und mehr.
+
+Lade jetzt herunter und kenne immer deine Tage!
+
+https://apps.apple.com/id/app/what-day-watch/id6502623632
+
+Entwickler: Pieter Yoshua Natanael
+
+想知道今天是星期几吗？通过 What Day? Watch，你可以在你的 Apple Watch 设备上查询任何日期的星期几。
+
+功能：
+
+检查从 1800 年到 2300 年的任何日期的星期几。
+简单又有趣。
+非常适合计划生日、活动等。
+
+立即下载，随时了解日期！
+
+https://apps.apple.com/id/app/what-day-watch/id6502623632
+
+开发者：Pieter Yoshua Natanael
+
+
+Bertanya-tanya hari apa ini? Dengan What Day? Watch, Anda dapat mengetahui hari untuk setiap tanggal di perangkat Apple Watch Anda.
+
+Fitur:
+
+Periksa hari dalam minggu untuk setiap tanggal dari tahun 1800 hingga 2300.
+Mudah dan menyenangkan untuk digunakan.
+Bagus untuk merencanakan ulang tahun, acara, dan lainnya.
+
+Unduh sekarang dan selalu ketahui harimu!
+
+https://apps.apple.com/id/app/what-day-watch/id6502623632
+
+Pengembang: Pieter Yoshua Natanael
+
