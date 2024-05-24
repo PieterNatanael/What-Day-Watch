@@ -55,3 +55,17 @@ https://apps.apple.com/id/app/what-day-watch/id6502623632
 
 Pengembang: Pieter Yoshua Natanael
 
+Vous vous demandez quel jour c'est ? Avec What Day? Watch, vous pouvez découvrir le jour pour n'importe quelle date sur votre Apple Watch.
+
+Caractéristiques :
+
+Vérifiez le jour de la semaine pour n'importe quelle date de 1800 à 2300.
+Facile et amusant à utiliser.
+Parfait pour planifier les anniversaires, les événements et plus encore.
+Téléchargez maintenant et sachez toujours vos jours !
+
+https://apps.apple.com/id/app/what-day-watch/id6502623632
+
+Développeur : Pieter Yoshua Natanael
+
+
