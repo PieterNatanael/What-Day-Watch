@@ -69,3 +69,19 @@ https://apps.apple.com/id/app/what-day-watch/id6502623632
 Développeur : Pieter Yoshua Natanael
 
 
+どの日か気になりますか？「What Day? Watch」を使えば、Apple Watchデバイスで任意の日付の曜日を調べることができます。
+
+機能：
+
+1800年から2300年までの任意の日付の曜日を確認できます。
+使いやすく、楽しい。
+誕生日やイベントの計画に最適。
+今すぐダウンロードして、いつでも曜日を把握しましょう！
+
+https://apps.apple.com/id/app/what-day-watch/id6502623632
+
+開発者: ピーター・ヨシュア・ナタナエル
+
+
+
+
