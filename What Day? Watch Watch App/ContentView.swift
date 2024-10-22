@@ -124,11 +124,11 @@ struct ShowExplainView: View {
         ScrollView {
             VStack {
                 sectionHeader(title: "Ads & App Functionality")
-                Image("threedollar")
-                    .resizable()
-                    .aspectRatio(contentMode: .fill)
-                    .cornerRadius(25)
-                    .clipped()
+//                Image("threedollar")
+//                    .resizable()
+//                    .aspectRatio(contentMode: .fill)
+//                    .cornerRadius(25)
+//                    .clipped()
                 
                 appCardsSection
                 
@@ -173,10 +173,13 @@ struct ShowExplainView: View {
     // Section containing app cards ads with descriptions
     private var appCardsSection: some View {
         VStack {
-            AppCardView(imageName: "bodycam", appName: "BODYCam", appDescription: "Record videos effortlessly and discreetly.", appURL: "https://apps.apple.com/id/app/b0dycam/id6496689003")
+            AppCardView(imageName: "sos", appName: "SOS Light", appDescription: "SOS Light is designed to maximize the chances of getting help in emergency situations.", appURL: "https://apps.apple.com/app/s0s-light/id6504213303")
             Divider().background(Color.gray)
             
-            AppCardView(imageName: "timetell", appName: "TimeTell", appDescription: "It will tell the time every 30 seconds—just listen, no more guessing or checking your watch—for time-sensitive tasks, workouts, and mindfulness exercises.", appURL: "https://apps.apple.com/id/app/loopspeak/id6473384030")
+            AppCardView(imageName: "takemedication", appName: "Take Medication", appDescription: "Just press any of the 24 buttons, each representing an hour of the day, and you'll get timely reminders to take your medication. It's easy, quick, and ensures you never miss a dose!", appURL: "https://apps.apple.com/id/app/take-medication/id6736924598")
+            Divider().background(Color.gray)
+            
+            AppCardView(imageName: "timetell", appName: "TimeTell", appDescription: "Announce the time every 30 seconds, no more guessing and checking your watch, for time-sensitive tasks.", appURL: "https://apps.apple.com/id/app/loopspeak/id6473384030")
             Divider().background(Color.gray)
             
             AppCardView(imageName: "worry", appName: "Worry Bin", appDescription: "A place for worry.", appURL: "https://apps.apple.com/id/app/worry-bin/id6498626727")
@@ -188,8 +191,8 @@ struct ShowExplainView: View {
             AppCardView(imageName: "insomnia", appName: "Insomnia Sheep", appDescription: "Designed to ease your mind and help you relax leading up to sleep.", appURL: "https://apps.apple.com/id/app/insomnia-sheep/id6479727431")
             Divider().background(Color.gray)
             
-            AppCardView(imageName: "dryeye", appName: "Dry Eye Read", appDescription: "The go-to solution for a comfortable reading experience, by adjusting font size and color to suit your reading experience.", appURL: "https://apps.apple.com/id/app/dry-eye-read/id6474282023")
-            Divider().background(Color.gray)
+//            AppCardView(imageName: "dryeye", appName: "Dry Eye Read", appDescription: "The go-to solution for a comfortable reading experience, by adjusting font size and color to suit your reading experience.", appURL: "https://apps.apple.com/id/app/dry-eye-read/id6474282023")
+//            Divider().background(Color.gray)
             
             AppCardView(imageName: "iprogram", appName: "iProgramMe", appDescription: "Custom affirmations, schedule notifications, stay inspired daily.", appURL: "https://apps.apple.com/id/app/iprogramme/id6470770935")
             Divider().background(Color.gray)
