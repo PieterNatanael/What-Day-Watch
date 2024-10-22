@@ -100,6 +100,19 @@ https://apps.apple.com/id/app/what-day-watch/id6502623632
 개발자: Pieter Yoshua Natanael
 
 
+Bertanya-tanya hari apa ini? Dengan What Day? Watch, Anda dapat mengetahui hari untuk tanggal apa pun di perangkat Apple Watch Anda.
+
+Fitur:
+
+Periksa hari dalam seminggu untuk tanggal apa pun dari tahun 1800 hingga 2300.
+Mudah dan menyenangkan untuk digunakan.
+Bagus untuk merencanakan ulang tahun, acara, dan lainnya.
+Unduh sekarang dan selalu tahu hari Anda!
+
+https://apps.apple.com/id/app/what-day-watch/id6502623632
+
+pengembang: Pieter Yoshua Natanael
+
 
 
 
